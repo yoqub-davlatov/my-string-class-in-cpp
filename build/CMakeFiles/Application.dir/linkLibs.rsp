@@ -1,0 +1,1 @@
+  -LC:/Users/yoqub/OneDrive/DOCUME~1/C__PRO~1/STRING~2/DEPEND~1/lib  libcurrentLib.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

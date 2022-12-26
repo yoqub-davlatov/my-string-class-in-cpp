@@ -1,0 +1,4 @@
+C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/build/CMakeFiles/currentLib.dir
+C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/build/CMakeFiles/Application.dir
+C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/build/CMakeFiles/edit_cache.dir
+C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/build/CMakeFiles/rebuild_cache.dir

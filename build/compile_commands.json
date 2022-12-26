@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/currentLib.dir/includes_CXX.rsp -g -o CMakeFiles\\currentLib.dir\\dependencies\\lib\\String.cpp.obj -c \"C:\\Users\\yoqub\\OneDrive\\Documents\\C++ programming\\StringImplementation\\dependencies\\lib\\String.cpp\"",
+  "file": "C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/dependencies/lib/String.cpp"
+},
+{
+  "directory": "C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Application.dir/includes_CXX.rsp -g -o CMakeFiles\\Application.dir\\src\\main.cpp.obj -c \"C:\\Users\\yoqub\\OneDrive\\Documents\\C++ programming\\StringImplementation\\src\\main.cpp\"",
+  "file": "C:/Users/yoqub/OneDrive/Documents/C++ programming/StringImplementation/src/main.cpp"
+}
+]

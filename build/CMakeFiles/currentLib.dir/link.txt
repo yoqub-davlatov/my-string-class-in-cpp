@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libcurrentLib.a CMakeFiles/currentLib.dir/dependencies/lib/String.cpp.obj
+C:\mingw64\bin\ranlib.exe libcurrentLib.a
